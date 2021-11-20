@@ -39,7 +39,7 @@ public class Main {
        };
 
 
-
+System.out.println("Тест гита");
        HotelFloor dw= new HotelFloor(fm);
        Floor[] dw22={ new HotelFloor(fm)};
        Building d228 = new Dwelling(dw22);
